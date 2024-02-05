@@ -75,7 +75,7 @@ If you've got an improvement, just send in a pull request!
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-If you've got feature ideas, simply [open a new issues](https://github.com/maybe-finance/maybe/issues/new)!
+If you've got feature ideas, simply [open a new issue](https://github.com/maybe-finance/maybe/issues/new)!
 
 ## Repo Activity
 
